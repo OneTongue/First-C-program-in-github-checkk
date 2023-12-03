@@ -6,6 +6,7 @@ int joshlee(int x){
 
 int main(){
   printf("Hello World");
+  joshlee();
 
   return 0;
 }
