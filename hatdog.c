@@ -12,7 +12,7 @@ int main(){
   printf("Enter second number: ");
   scanf("%d", &y);
   
-  printf("The sum is %d", joshlee(x, y);
+  printf("The sum is %d", joshlee(x, y));
   
 
   return 0;
