@@ -1,8 +1,5 @@
 #include <stdio.h>
 
-int joshlee(int x, int y){
-  return x + y;
-}
 
 int main(){
   int x, y;
@@ -12,7 +9,7 @@ int main(){
   printf("Enter second number: ");
   scanf("%d", &y);
   
-  printf("The sum is %d", joshlee(x, y));
+  printf("The sum is %d", x + y);
   
 
   return 0;
